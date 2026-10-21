@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+
+}
+
+#prothom {
+    text-align: center;
+    color : red ;
+    text-transform:uppercase;
+    background-color: aqua;
+    letter-spacing:0;
+    word-spacing:5;
+    padding: 0;
+    font-size:55px;
+    
+
+}
+
+.first{
+    font-size:100px;
+    color:white;
+}
+
+.write {
+    width:300px;
+    padding: 40px;
+    border:1px solid;
+}
